@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousermug.github.io/sitemap.html.gz
+Sitemap: https://ousermug.github.io/app/sitemap.html.gz
+Sitemap: https://ousermug.github.io/assets/sitemap.html.gz
+Sitemap: https://ousermug.github.io/css/sitemap.html.gz
+Sitemap: https://ousermug.github.io/includes/sitemap.html.gz
+Sitemap: https://ousermug.github.io/item/sitemap.html.gz
+Sitemap: https://ousermug.github.io/src/sitemap.html.gz
